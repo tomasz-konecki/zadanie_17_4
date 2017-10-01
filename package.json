@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/tomasz-konecki/zadanie_17_4#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
     "express": "^4.16.1"
   }
 }
