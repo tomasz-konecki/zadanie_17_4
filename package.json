@@ -1,0 +1,23 @@
+{
+  "name": "zadanie_17_4",
+  "version": "1.0.0",
+  "description": "ExpressJS - pliki statyczne",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasz-konecki/zadanie_17_4.git"
+  },
+  "author": "TK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasz-konecki/zadanie_17_4/issues"
+  },
+  "homepage": "https://github.com/tomasz-konecki/zadanie_17_4#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
